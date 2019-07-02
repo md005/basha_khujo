@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/XAMPP/htdocs/basha_khujo/.env</file>
+            <file>file:/E:/XAMPP/htdocs/basha_khujo/routes/web.php</file>
+            <file>file:/E:/XAMPP/htdocs/basha_khujo/resources/views/backend/admin_login.blade.php</file>
+            <file>file:/E:/XAMPP/htdocs/basha_khujo/resources/views/backend/admin_master.blade.php</file>
+            <file>file:/E:/XAMPP/htdocs/basha_khujo/database/migrations/2018_06_28_050611_create_admin_table.php</file>
+        </group>
+    </open-files>
+</project-private>
